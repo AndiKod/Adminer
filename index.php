@@ -1,0 +1,1 @@
+<?= 'Hey there, go to sqlite.php' ?>
